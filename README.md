@@ -1,7 +1,7 @@
 # modelagem_de_dados_DER
 Exemplo genérico de um diagrama entidade relacionamento baseado no estudo de caso proposto na faculdade.
 
-ESTUDO DE CASO
+## ESTUDO DE CASO
 
 O ALMA Supermercados possui as seguintes características:
 
