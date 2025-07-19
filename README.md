@@ -24,7 +24,7 @@ SGBD para gerenciamento de:
   - Normalização básica
 
 ## 📸 Visualização do Diagrama
-![Diagrama DER](DER_ALMA_Supermercados.pdf)
+![Diagrama DER](DER_ALMASupermercados.png)
 
 ## 💡 Aprendizados Chave
 - Identificação de **entidades fracas vs fortes**
